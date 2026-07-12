@@ -26,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
