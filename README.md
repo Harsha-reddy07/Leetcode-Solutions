@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1331-rank-transform-of-an-array](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Design
 |  |
@@ -57,9 +59,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/1291-sequential-digits) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
