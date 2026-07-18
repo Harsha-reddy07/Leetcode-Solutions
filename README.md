@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
