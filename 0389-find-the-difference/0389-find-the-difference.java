@@ -1,27 +1,14 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-        HashMap<Character,Integer> map = new HashMap<>();
+        char ans = 0;
         for(int i=0;i<s.length();i++){
-            char ch=s.charAt(i);
-            if(map.containsKey(ch)){
-                map.put(ch ,map.get(ch)+1);
-            }
-            else{
-                map.put(ch,1);
-            }
+            char ch = s.charAt(i);
+            ans ^= ch;
         }
         for(int i=0;i<t.length();i++){
             char ct = t.charAt(i);
-            if(map.containsKey(ct)){
-                map.put(ct , map.get(ct)-1);
-                if(map.get(ct) == 0){
-                    map.remove(ct);
-                }
-            }
-            else{
-               return ct;
-            }
+            ans ^= ct;
         }
-        return ' ';
+        return ans;
     }
 }
