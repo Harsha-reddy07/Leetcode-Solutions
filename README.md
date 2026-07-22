@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0704-binary-search](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Prefix Sum
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
