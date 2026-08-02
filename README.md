@@ -71,10 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/1291-sequential-digits) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0709-to-lower-case) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## Interactive
 |  |
 | ------- |
