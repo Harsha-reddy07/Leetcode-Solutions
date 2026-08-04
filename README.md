@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0709-to-lower-case) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## Interactive
 |  |
