@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0441-arranging-coins) |
@@ -131,10 +132,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Queue
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
