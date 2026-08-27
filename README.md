@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2951-find-the-peaks](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/2951-find-the-peaks) |
+| [3866-first-unique-even-element](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/3866-first-unique-even-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [3866-first-unique-even-element](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/3866-first-unique-even-element) |
 ## Enumeration
 |  |
 | ------- |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0258-add-digits) |
+## Counting
+|  |
+| ------- |
+| [3866-first-unique-even-element](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/3866-first-unique-even-element) |
 <!---LeetCode Topics End-->
