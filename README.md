@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
