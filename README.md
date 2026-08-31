@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1470-shuffle-the-array](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
+| [1572-matrix-diagonal-sum](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1748-sum-of-unique-elements](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [3866-first-unique-even-element](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/3866-first-unique-even-element) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
