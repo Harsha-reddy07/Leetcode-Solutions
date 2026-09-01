@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0704-binary-search](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0441-arranging-coins) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## String
 |  |
@@ -161,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
