@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0704-binary-search](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0704-binary-search) |
