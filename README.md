@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0136-single-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Pigeonhole Principle
