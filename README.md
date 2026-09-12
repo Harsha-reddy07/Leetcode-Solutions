@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0704-binary-search](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Queue
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Pigeonhole Principle
 |  |
