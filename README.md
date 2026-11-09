@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0257-binary-tree-paths](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/Harsha-reddy07/Leetcode-Solutions/tree/master/0709-to-lower-case) |
